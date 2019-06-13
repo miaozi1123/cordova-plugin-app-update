@@ -2,11 +2,11 @@
 <resources>
     <string name="update_latest">已经是最新版本</string>
     <string name="update_title">软件更新</string>
-    <string name="update_message">软件框架有更新啦！</string>
-    <string name="update_update_btn">更新</string>
-    <string name="updating">正在更新</string>
+    <string name="update_message">立即更新到最新版本</string>
+    <string name="update_update_btn">确定</string>
+    <string name="updating">正在下载</string>
     <string name="update_cancel">取消</string>
-    <string name="update_bg">转到后台更新</string>
+    <string name="update_bg"></string>
     <string name="download_complete_title">下载完毕</string>
     <string name="download_complete_pos_btn">重新下载</string>
     <string name="download_complete_neu_btn">手动安装</string>
